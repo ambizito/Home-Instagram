@@ -11,6 +11,9 @@ Página de login responsiva, adaptável a diferentes tamanhos de tela.
 - CSS
 
 
+## Hospedagem da aplicação
+1. https://ambizito.github.io/Home-Instagram/
+
 ## Como utilizar
 
 1. Faça o download ou clone este repositório em sua máquina local.
